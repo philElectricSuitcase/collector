@@ -52,7 +52,7 @@ const HeroOne = () => {
                       className="ti-control-play"
                       onClick={() => setOpen(true)}
                     ></span>
-                  </Link>{" "}
+                  </Link>{}
                   Watch Video Overview
                 </div>
               </div>
@@ -70,7 +70,7 @@ const HeroOne = () => {
           <ModalVideo
             channel="youtube"
             isOpen={isOpen}
-            videoId="9No-FiEInLA"
+            videoId="stUR5eZOJHg"
             onClose={() => setOpen(false)}
           />
         </div>

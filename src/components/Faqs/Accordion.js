@@ -67,7 +67,7 @@ export default function Accordion({ Title }) {
                 >
                   <h6 className="mb-0">
                     <span className="ti-gallery mr-3 color-secondary"></span>
-                    How do I get access to a theme?
+                    How do you get these ideas?
                   </h6>
                 </div>
                 <div
@@ -78,45 +78,15 @@ export default function Accordion({ Title }) {
                 >
                   <div className="card-body">
                     <p>
-                      Rapidiously incentivize virtual e-commerce and exceptional
-                      e-tailers. Progressively network focused catalysts for
-                      change without orthogonal benefits. Dramatically empower.
+                      Many times its gin infused brilliance, but in this case credit where its due..
+                      Theres an amazing Cypriot called Nikolas Mavresis, he relased an effect a few years ago, through Alakazam Magic, which this show is based on.
+                      I came up with other aspects of the show, then discussed it with an amazing hypnotist called Anthiny Jacquin, who has done so many things in the hypnosis wold.
+                      I talked through a few areas an he told me about a set called 'Impromtu Annie' which is similar to what I was thinking, he was kind enough to share it, and i have adapted some of this after. so credit to Nikolas, Alakazam and Anthony.
                     </p>
                   </div>
                 </div>
               </div>
 
-              <div className="card">
-                <div
-                  className="card-header py-4"
-                  id="heading-1-3"
-                  data-toggle="collapse"
-                  role="button"
-                  data-target="#collapse-1-3"
-                  aria-expanded="false"
-                  aria-controls="collapse-1-3"
-                >
-                  <h6 className="mb-0">
-                    <span className="ti-wallet mr-3 color-secondary"></span> How
-                    do I see previous orders?
-                  </h6>
-                </div>
-                <div
-                  id="collapse-1-3"
-                  className="collapse"
-                  aria-labelledby="heading-1-3"
-                  data-parent="#accordion-1"
-                >
-                  <div className="card-body">
-                    <p>
-                      Proactively monetize long-term high-impact innovation and
-                      scalable relationships. Dynamically mesh
-                      principle-centered functionalities before next-generation
-                      best practices. Distinctively empower.
-                    </p>
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
           <div className="col-lg-6">
@@ -133,7 +103,7 @@ export default function Accordion({ Title }) {
                 >
                   <h6 className="mb-0">
                     <span className="ti-receipt mr-3 color-secondary"></span>
-                    Which license do I need?
+                    Is there an age limit?
                   </h6>
                 </div>
                 <div
@@ -144,10 +114,8 @@ export default function Accordion({ Title }) {
                 >
                   <div className="card-body">
                     <p>
-                      Distinctively recaptiualize customer directed channels
-                      before installed base communities. Continually
-                      disintermediate distinctive web services vis-a-vis team
-                      building e-commerce.
+                      Technically no, but because of the content if your child is under 16 please contact us.
+                      if anyone is under the age of 18, on drugs, pregnant or has mental health issues they shouldn't volunteer to be hypnotised, they can happily watch the show and take part in the magic elements..
                     </p>
                   </div>
                 </div>
@@ -165,7 +133,7 @@ export default function Accordion({ Title }) {
                 >
                   <h6 className="mb-0">
                     <span className="ti-lock mr-3 color-secondary"></span> How
-                    do I get access to a theme?
+                    Can we hire you?
                   </h6>
                 </div>
                 <div
@@ -176,46 +144,13 @@ export default function Accordion({ Title }) {
                 >
                   <div className="card-body">
                     <p>
-                      Quickly recaptiualize revolutionary meta-services and
-                      multimedia based channels. Seamlessly impact diverse
-                      deliverables rather than cooperative strategic theme
-                      areas.
+                     Yes, i am availabe to perform the show at your location just contact me..
                     </p>
                   </div>
                 </div>
               </div>
 
-              <div className="card">
-                <div
-                  className="card-header py-4"
-                  id="heading-2-3"
-                  data-toggle="collapse"
-                  role="button"
-                  data-target="#collapse-2-3"
-                  aria-expanded="false"
-                  aria-controls="collapse-2-3"
-                >
-                  <h6 className="mb-0">
-                    <span className="ti-widget mr-3 color-secondary"></span> How
-                    do I see previous orders?
-                  </h6>
-                </div>
-                <div
-                  id="collapse-2-3"
-                  className="collapse"
-                  aria-labelledby="heading-2-3"
-                  data-parent="#accordion-2"
-                >
-                  <div className="card-body">
-                    <p>
-                      Efficiently supply B2B networks vis-a-vis best-of-breed
-                      schemas. Dramatically parallel task reliable technology
-                      with cross functional core competencies.
-                      Phosfluorescently.
-                    </p>
-                  </div>
-                </div>
-              </div>
+            
             </div>
           </div>
         </div>

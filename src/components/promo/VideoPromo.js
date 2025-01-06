@@ -26,14 +26,14 @@ export default function VideoPromo() {
                     onClick={() => setOpen(true)}
                   ></span>
                 </Link>
-                <h5 className="mt-4 text-white">Watch video overview</h5>
+                <h5 className="mt-4 text-white">Watch full video</h5>
               </div>
             </div>
           </div>
           <ModalVideo
             channel="youtube"
             isOpen={isOpen}
-            videoId="9No-FiEInLA"
+            videoId="EIntPOMfwr8"
             onClose={() => setOpen(false)}
           />
         </div>

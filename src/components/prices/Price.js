@@ -29,7 +29,7 @@ export default function Price({ hasBg }) {
                   <h5 className="mb-2">Bow Street Police Museum</h5>
                   <div className="pricing-img mt-3 mb-4">
                     <img
-                      src="assets/img/bow-street-logo.svg"
+                      src="/assets/img/bow-street-logo.png"
                       alt="pricing img"
                       className="img-fluid"
                     />

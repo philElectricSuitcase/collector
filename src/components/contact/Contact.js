@@ -13,33 +13,21 @@ export default function Contact({ bgColor }) {
               <div className="alert alert-danger"></div>
             </div>
             <div className="col-md-5">
-              <div className="section-heading">
-                <h2>Contact With Us</h2>
-                <p>
-                  It's very easy to get in touch with us. Just use the contact
-                  form or pay us a visit for a coffee at the office. Dynamically
-                  innovate competitive technology after an expanded array of
-                  leadership.
-                </p>
-              </div>
+           
               <div className="footer-address">
                 <h6>
                   <strong>Head Office</strong>
                 </h6>
-                <p>121 King St, Melbourne VIC 3000, Australia</p>
-                <ul>
-                  <li>
-                    <span>Phone: +61 2 8376 6284</span>
-                  </li>
-                  <li>
+              
+                    <span>Phone: +4477394 168 872</span>
+                 <br/>
                     <span>
                       Email :
-                      <a href="mailto:hello@yourdomain.com">
-                        hello@yourdomain.com
+                      <a href="mailto:social@thought-reader.co.uk">
+                      social@thought-reader.co.uk
                       </a>
                     </span>
-                  </li>
-                </ul>
+              
               </div>
             </div>
             <div className="col-md-7">
