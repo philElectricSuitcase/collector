@@ -37,7 +37,10 @@ export default function Price({ hasBg }) {
 
                   <div className="card-body p-0">
                     <ul className="list-unstyled text-sm pricing-feature-list">
-                      <li>Welcome Drink</li>
+                    <li>Bow Street Police Museum</li>
+                    <li>Covent Garden</li>
+                    <li>London</li>
+                    <li>Doors Open 18:30</li>
                       <li>Tour Of The Musuem</li>
                       <li>90 Minute Show</li>
                      
