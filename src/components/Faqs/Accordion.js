@@ -80,7 +80,7 @@ export default function Accordion({ Title }) {
                     <p>
                       Many times its gin infused brilliance, but in this case credit where its due..
                       Theres an amazing Cypriot called Nikolas Mavresis, he relased an effect a few years ago, through Alakazam Magic, which this show is based on.
-                      I came up with other aspects of the show, then discussed it with an amazing hypnotist called Anthiny Jacquin, who has done so many things in the hypnosis wold.
+                      I came up with other aspects of the show, then discussed it with an amazing hypnotist called Anthiny Jacquin, who has done so many things in the hypnosis world.
                       I talked through a few areas an he told me about a set called 'Impromtu Annie' which is similar to what I was thinking, he was kind enough to share it, and i have adapted some of this after. so credit to Nikolas, Alakazam and Anthony.
                     </p>
                   </div>
