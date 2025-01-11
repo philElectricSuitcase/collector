@@ -48,6 +48,8 @@ export default function Price({ hasBg }) {
                     <div className="py-4 border-0 pricing-header">
                       <div className="h1 text-center mb-0 color-secondary">
                         £<span className="price font-weight-bolder">25</span>
+                        <br/>
+                        <span className="price font-weight-bolder h3">Other Prices Available</span>
                       </div>
                     </div>
                     <a href="https://buy.stripe.com/00g9AN4ab0yR1iM002" className="btn solid-btn" target="_blank">
