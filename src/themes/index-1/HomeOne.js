@@ -28,9 +28,12 @@ export default function HomeOne() {
       <Price />
       <Accordion />
       <VideoPromo />
+    {/*
       <Contact bgColor />
+    
       <Subsribe />
       <Footer space />
+      */}
     </Layout>
   );
 }

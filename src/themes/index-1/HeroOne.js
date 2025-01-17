@@ -25,6 +25,7 @@ const HeroOne = () => {
                   Journey Back to Victorian London to Catch a Killer.<br/>
                   Are you ready to crack the case and confront the unknown?
                 </p>
+                {/*
                 <form action="#" method="post" className="subscribe-form">
                   <div className="d-flex align-items-center">
                     <input
@@ -42,7 +43,7 @@ const HeroOne = () => {
                     />
                   </div>
                 </form>
-
+                */}
                 <div className="video-promo-content py-4 d-flex align-items-center">
                   <Link
                     to="#"

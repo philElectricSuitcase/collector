@@ -47,14 +47,26 @@ export default function Price({ hasBg }) {
                     </ul>
                     <div className="py-4 border-0 pricing-header">
                       <div className="h1 text-center mb-0 color-secondary">
-                        £<span className="price font-weight-bolder">25</span>
                         <br/>
-                        <span className="price font-weight-bolder h3">Other Prices Available</span>
+                        <span className="price font-weight-bolder h3">  email us as tickets are limited</span>
                       </div>
+                      <div className="col-md-5">
+                      </div>
+                 <span>Phone: +4477394 168 872</span>
+              <br/>
+                 <span>
+                   Email :
+                   <a href="mailto:social@thought-reader.co.uk">
+                   social@thought-reader.co.uk
+                   </a>
+                 </span>
+           
+        
+     
                     </div>
-                    <a href="https://buy.stripe.com/00g9AN4ab0yR1iM002" className="btn solid-btn" target="_blank">
-                      Purchase now
-                    </a>
+                   
+                    
+                    
                   </div>
                 </div>
               </div>
